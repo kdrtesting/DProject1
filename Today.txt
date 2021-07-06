@@ -1,0 +1,18 @@
+1.Update QA tracker - Done
+2.Update CDR test cases-
+3.Update QA tool list -
+
+
+
+Azure DevOps(Basic + Test Plans)
+Requirements & Test Management for Jira
+
+
+Up to 10 users $10
+monthly flat fee
+Free 30 day trial
+
+This is for test management activities.With this tool we can Structure Requirements, Test Cases, Test Plans, Test Executions, and Defects into transparent tree folders.
+
+Azure DevOps(Basic + Test Plans)
+$52 per user per month
